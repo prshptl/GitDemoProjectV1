@@ -15,6 +15,8 @@ public class TestProgram {
 		{
 			System.out.println("Do Work");
 		}
+		
+		System.out.println("Thanks for changes....");
 
 	}
 
